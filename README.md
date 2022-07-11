@@ -7,7 +7,7 @@
 1. Download the Reposetory
 2. Unzip the ZIP Folder
 3. Open [FallGuysInternal.sln](https://github.com/MJMODZZ/FallGuys-Cheat/blob/main/src/FallGuysInternal.sln)
-4. Build the DLL as `Release | x64`
+4. Build the DLL as **Release | x64**
 5. Inject the DLL with a Working injecor into FallGuys
 
 IMPORTANT:
@@ -16,7 +16,7 @@ Make sure the required C++ Packages are installed
 
 ## Author
 
-👤 **MJMODZZ**
+👤 **MJMODS**
 
 * MJMODS DISCORD: [@MJMODS](https://dsc.gg/mjservices)
 * MJMODS GitHub: [@MJMODS](https://github.com/mjmodzz)
@@ -28,6 +28,6 @@ Give a ⭐️ if you like it
 
 ## 📝 License
 
-Copyright © 2022 [MJMODZZ](https://github.com/MJMODZZ).<br />
+Copyright © 2022 [MJMODS](https://github.com/MJMODZZ).<br />
 This project is [MIT](https://github.com/MJMODZZ/Clean-GUI-Template/blob/master/LICENSE) licensed.
 
